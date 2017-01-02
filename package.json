@@ -3,11 +3,14 @@
   "version": "0.0.0",
   "description": "Bot_App",
   "main": "app.js",
-  "dependencies": {
-    "underscore": "1.8.3",
-    "express": "^4.14.0",
-    "body-parser": "^1.15.2",
-    "request": "^2.78.0"
+    "dependencies": {
+        "underscore": "1.8.3",
+        "express": "^4.14.0",
+        "body-parser": "^1.15.2",
+        "request": "^2.78.0"
+    },
+    "scripts": {
+    "start": "node app.js"
   },
   "author": {
     "name": "AvinashK",
